@@ -1,8 +1,10 @@
 # README
 
-## About
+## Hennos Desktop
 
-This is the official Wails React-TS template.
+This is a basic desktop application for Hennos the Telegram chat bot. It is built using Wails, React and Typescript.
+
+See the [telegram-gpt-bot](https://github.com/repkam09/telegram-gpt-bot) documentation for more information about Hennos features.
 
 You can configure the project by editing `wails.json`. More information about the project settings can be found
 here: https://wails.io/docs/reference/project-config
